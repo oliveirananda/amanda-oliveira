@@ -16,10 +16,10 @@ img{
       }
       
      .navbar li a {
-        display: block;
+        display: flex;
         color: white;
         text-align: center;
-        padding: 14px 16px;
+        padding: 30px 10%;
         text-decoration: none;
       }
       
